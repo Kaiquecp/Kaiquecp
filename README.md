@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou Kaique Pimentel</h1>
-<h3 align="center">Eu sou apaixonado em análise de dados e em novas tecnologias</h3>
+<h3 align="center">Eu sou apaixonado em análise de dados e em automações de processos</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados **Automação de Tarefas com Python, PyautoGUI e OpenPyXL**
 
