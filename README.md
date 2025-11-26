@@ -95,24 +95,6 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiquecp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquecp&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kaiquecp&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 💼 Experiência Profissional
 
 **Administrador de Sistemas e Desenvolvedor Progress 4GL** | Dez/2023 - Presente  
