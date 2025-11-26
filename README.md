@@ -31,6 +31,7 @@ Desenvolvedor com experiência consolidada em desenvolvimento backend, administr
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,7 +62,7 @@ Desenvolvedor com experiência consolidada em desenvolvimento backend, administr
 ### 🤖 [Chatbot WhatsApp com IA e RAG](https://github.com/Kaiquecp/whatsapp_iabot)
 Sistema de chatbot conversacional para WhatsApp com arquitetura de microsserviços. Integra EvolutionAPI, FastAPI, LangChain e OpenAI. Implementa RAG para busca semântica em documentos e estratégia de acumulação de contexto.
 
-**Tech:** FastAPI • LangChain • OpenAI API • EvolutionAPI • Docker • RAG
+**Tech:** FastAPI • LangChain • OpenAI API • EvolutionAPI • Docker • RAG • ChromaDB
 
 ---
 
@@ -130,7 +131,7 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
 
 - 💻 Python, Django, Django REST Framework
 - 🏢 TOTVS Datasul, Progress 4GL/OpenEdge
-- 🤖 IA Agents, LangChain, RAG
+- 🤖 IA Agents, LangChain, RAG, ChromaDB
 - ☁️ DevOps, Docker, AWS
 - 🗄️ Bancos de Dados (SQL Server, PostgreSQL, MySQL)
 - 🏗️ Arquitetura de Sistemas e Microsserviços
