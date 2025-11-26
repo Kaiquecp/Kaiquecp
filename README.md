@@ -13,7 +13,7 @@ Desenvolvedor com experiência consolidada em desenvolvimento backend, administr
 - 🔭 **Atualmente:** Administrador de Sistemas e Desenvolvedor Progress 4GL em ambiente empresarial de grande porte (45+ bases TOTVS Datasul)
 - 💼 **Especialidades:** TOTVS Datasul ERP, Progress 4GL/OpenEdge, Django/DRF, Python, Windows Server, Automação com IA
 - 🌱 **Aprendendo:** DevOps (Docker, Kubernetes, AWS), Arquitetura de Microsserviços, Event-Driven Architecture
-- 🤖 **IA & Automação:** LangChain, RAG, OpenAI API, desenvolvimento de agentes inteligentes
+- 🤖 **IA & Automação:** LangChain, RAG, OpenAI API, Claude API, desenvolvimento de agentes inteligentes
 - ⚡ **Projeto Destaque:** TorreX - Sistema de gestão de frotas usado por empresa de grande porte no Brasil
 
 ---
@@ -40,9 +40,15 @@ Desenvolvedor com experiência consolidada em desenvolvimento backend, administr
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### IA & Automação
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI_Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,12 +98,16 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiquecp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquecp&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaiquecp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquecp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaiquecp&theme=dark&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kaiquecp&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -131,7 +141,7 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
 
 - 💻 Python, Django, Django REST Framework
 - 🏢 TOTVS Datasul, Progress 4GL/OpenEdge
-- 🤖 IA Agents, LangChain, RAG, ChromaDB
+- 🤖 IA Agents, LangChain, RAG, Claude API, OpenAI, Gemini, ChromaDB
 - ☁️ DevOps, Docker, AWS
 - 🗄️ Bancos de Dados (SQL Server, PostgreSQL, MySQL)
 - 🏗️ Arquitetura de Sistemas e Microsserviços
@@ -142,6 +152,6 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
   
 ### 🌟 "Transformando código em soluções que impactam negócios reais"
 
-![Visitor Count](https://profile-counter.glitch.me/Kaiquecp/count.svg)
+![](https://komarev.com/ghpvc/?username=Kaiquecp&color=00E5FF&style=flat-square)
 
 </div>
