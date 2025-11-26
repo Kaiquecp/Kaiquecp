@@ -59,4 +59,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquecp&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas - Kaique Pimentel" />
 </p>
-](https://github.com/Kaiquecp/Kaiquecp)
+(https://github.com/Kaiquecp/Kaiquecp)
