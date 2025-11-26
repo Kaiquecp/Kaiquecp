@@ -10,11 +10,11 @@ Desenvolvedor com experiência consolidada em desenvolvimento backend, administr
 
 ## 🚀 Sobre Mim
 
-- 🔭 **Atualmente:** Administrador de Sistemas e Desenvolvedor Progress 4GL em ambiente empresarial de grande porte (45+ bases TOTVS Datasul)
-- 💼 **Especialidades:** TOTVS Datasul ERP, Progress 4GL/OpenEdge, Django/DRF, Python, Windows Server, Automação com IA
+- 🔭 **Atualmente:** Desenvolvedor FullStack Python|Tailwind, Analista de Sistemas e Desenvolvedor Progress 4GL em ambiente empresarial de grande porte (45+ bases TOTVS Datasul)
+- 💼 **Especialidades:** TOTVS Datasul ERP, Progress 4GL/OpenEdge, Django/DRF, Python, Windows Server, Linux Ubuntu Server, Docker, Git Automação com IA
 - 🌱 **Aprendendo:** DevOps (Docker, Kubernetes, AWS), Arquitetura de Microsserviços, Event-Driven Architecture
 - 🤖 **IA & Automação:** LangChain, RAG, OpenAI API, Claude API, desenvolvimento de agentes inteligentes
-- ⚡ **Projeto Destaque:** TorreX - Sistema de gestão de frotas usado por empresa de grande porte no Brasil
+- ⚡ **Projeto Destaque:** TorreX - Sistema de gestão de frotas usado por empresa de grande porte na área de transportes do Brasil
 
 ---
 
@@ -95,9 +95,9 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiências Profissionais Recentes
 
-**Administrador de Sistemas e Desenvolvedor Progress 4GL** | Dez/2023 - Presente  
+**Administrador de Sistemas e Desenvolvedor Progress 4GL** | Out/2025 - Presente  
 🔹 Administração TOTVS Datasul (45+ bases de dados)  
 🔹 Desenvolvimento Progress 4GL (wizards, automações, customizações)  
 🔹 Configuração Windows Server e troubleshooting de produção  
@@ -121,11 +121,11 @@ Aplicação web para planejamento e otimização de rotas com integração de ma
 
 ## 💬 Pergunte-me sobre
 
-- 💻 Python, Django, Django REST Framework
+- 💻 Python, Django, Django REST Framework, FastAPI
 - 🏢 TOTVS Datasul, Progress 4GL/OpenEdge
 - 🤖 IA Agents, LangChain, RAG, Claude API, OpenAI, Gemini, ChromaDB
 - ☁️ DevOps, Docker, AWS
-- 🗄️ Bancos de Dados (SQL Server, PostgreSQL, MySQL)
+- 🗄️ Bancos de Dados (SQL Server, PostgreSQL, MySQL, Redis, ChromaDB)
 - 🏗️ Arquitetura de Sistemas e Microsserviços
 
 ---
