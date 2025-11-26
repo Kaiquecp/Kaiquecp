@@ -1,4 +1,4 @@
-[<h1 align="center">👋 Oi, eu sou o Kaique Pimentel</h1>
+<h1 align="center">👋 Oi, eu sou o Kaique Pimentel</h1>
 <h3 align="center">Desenvolvedor Full Stack Python, HTML, CSS3 e Tailwind & Engenheiro de Automação com foco em IA, escalabilidade e soluções cloud-native 🚀</h3>
 
 ---
