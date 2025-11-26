@@ -1,62 +1,146 @@
-<h1 align="center">👋 Oi, eu sou o Kaique Pimentel</h1>
-<h3 align="center">Desenvolvedor Full Stack Python, HTML, CSS3 e Tailwind & Engenheiro de Automação com foco em IA, escalabilidade e soluções cloud-native 🚀</h3>
+# Oi 👋, eu sou Kaique Costa Pimentel
+
+## 💻 Desenvolvedor Full Stack | Administrador de Sistemas ERP | Especialista em Automação com IA
+
+Desenvolvedor com experiência consolidada em desenvolvimento backend, administração de sistemas ERP e automação inteligente. Especialista em TOTVS Datasul, Progress 4GL/OpenEdge e desenvolvimento Python/Django com foco em soluções escaláveis e integração de IA.
+
+📍 **Camaçari - BA, Brasil** | 📧 **kaiquepimentel49@gmail.com** | 💼 **[LinkedIn](https://www.linkedin.com/in/kaique-pimentel/)**
 
 ---
 
-- 🔭 **Atualmente trabalhando com:**  
-  Desenvolvimento de aplicações web escaláveis utilizando **Python**, **Django**, **Django REST Framework**, **HTML**, **CSS**, **Bootstrap** e **Tailwind CSS**, com foco em **soluções SaaS completas**, **APIs REST robustas**, **integração entre serviços** e **automação inteligente**.
+## 🚀 Sobre Mim
 
-- 🧠 **Implementações em Inteligência Artificial:**  
-  Criação e integração de **IA Agents** para **automatização de tarefas**, **orquestração de fluxos de trabalho** e **desenvolvimento de aplicações inteligentes** capazes de agir de forma autônoma e escalável.
-
-- 🌱 **Aprofundando conhecimentos em:**  
-  **DevOps moderno**, com foco em **infraestrutura escalável e automatizada**, **pipelines CI/CD**, **monitoramento e observabilidade**, **contenção com Docker e Kubernetes**, além de **serviços AWS (EC2, S3, RDS, Lambda, ECS)** e **Infraestrutura como Código (IaC)**.
-
-- ⚙️ **Experiência com bancos de dados:**  
-  **PostgreSQL**, **SQL Server**, **MySQL**, **SQLite**, **Redis** (para cache, filas e alta performance) e **Chroma**.
-
-- 👯 **Projetos recentes:**  
-  Desenvolvimento de **SaaS completos**, **sistemas web integrados a IA**, e **pipelines automatizados de deploy** em **ambientes cloud e Linux**.
-
-- 💬 **Pergunte-me sobre:**  
-  **Python**, **Django**, **Django REST Framework**, **SaaS Escaláveis**, **IA Agents**, **DevOps**, **Docker**, **AWS**, **Bancos de Dados** e **Arquitetura de Sistemas**.
-
-- 📫 **Contato:**  
-  📧 [kaiquepimentel49@gmail.com](mailto:kaiquepimentel49@gmail.com)
-
-- 📄 **Minhas experiências profissionais:**  
-  🔗 [linkedin.com/in/kaique-pimentel](https://www.linkedin.com/in/kaique-pimentel/)
+- 🔭 **Atualmente:** Administrador de Sistemas e Desenvolvedor Progress 4GL em ambiente empresarial de grande porte (45+ bases TOTVS Datasul)
+- 💼 **Especialidades:** TOTVS Datasul ERP, Progress 4GL/OpenEdge, Django/DRF, Python, Windows Server, Automação com IA
+- 🌱 **Aprendendo:** DevOps (Docker, Kubernetes, AWS), Arquitetura de Microsserviços, Event-Driven Architecture
+- 🤖 **IA & Automação:** LangChain, RAG, OpenAI API, desenvolvimento de agentes inteligentes
+- ⚡ **Projeto Destaque:** TorreX - Sistema de gestão de frotas usado por empresa de grande porte no Brasil
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kaique-pimentel/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Kaique Pimentel" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### Backend & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress_4GL-00A3E0?style=for-the-badge&logo=progress&logoColor=white)
+
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### IA & Automação
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ERP & Sistemas Legados
+![TOTVS](https://img.shields.io/badge/TOTVS_Datasul-FF6C37?style=for-the-badge&logo=totvs&logoColor=white)
+![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-00A3E0?style=for-the-badge&logo=progress&logoColor=white)
 
 ---
 
-<h3 align="left">🧰 Tecnologias e Ferramentas:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+## 🚀 Projetos em Destaque
+
+### 🤖 [Chatbot WhatsApp com IA e RAG](https://github.com/Kaiquecp/whatsapp_iabot)
+Sistema de chatbot conversacional para WhatsApp com arquitetura de microsserviços. Integra EvolutionAPI, FastAPI, LangChain e OpenAI. Implementa RAG para busca semântica em documentos e estratégia de acumulação de contexto.
+
+**Tech:** FastAPI • LangChain • OpenAI API • EvolutionAPI • Docker • RAG
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquecp&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas - Kaique Pimentel" />
-</p>
-(https://github.com/Kaiquecp/Kaiquecp)
+### 🚚 TorreX - Sistema de Gestão de Frotas
+Sistema web completo para gestão operacional de frotas utilizado por empresa de grande porte no Brasil. Arquitetura com 10+ módulos integrados incluindo gestão de motoristas, veículos, jornadas, tickets e manutenção.
+
+**Tech:** Django • PostgreSQL • Bootstrap/TailwindCSS • JavaScript
+
+---
+
+### 🗺️ Sistema de Planejamento de Rotas (Rotograma)
+Aplicação web para planejamento e otimização de rotas com integração de mapas, geofencing através de polígonos, detecção de radares e zonas restritas.
+
+**Tech:** Django • Leaflet.js • PostgreSQL/PostGIS
+
+---
+
+### ⚡ Automações Progress 4GL - TOTVS Datasul
+- **Wizard de Criação de Usuários:** Automatização de 8 etapas manuais em processo guiado
+- **Cálculo Automático de Descontos:** Processamento de pedidos com regras complexas
+- **Scripts de Gestão de BD:** Desconexão seletiva, troubleshooting AI, otimizações
+
+**Tech:** Progress 4GL • OpenEdge • TOTVS AppBuilder
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaiquecp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquecp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaiquecp&theme=dark&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF)
+
+</div>
+
+---
+
+## 💼 Experiência Profissional
+
+**Administrador de Sistemas e Desenvolvedor Progress 4GL** | Dez/2023 - Presente  
+🔹 Administração TOTVS Datasul (45+ bases de dados)  
+🔹 Desenvolvimento Progress 4GL (wizards, automações, customizações)  
+🔹 Configuração Windows Server e troubleshooting de produção  
+🔹 Desenvolvimento de interfaces com TOTVS AppBuilder  
+
+**Desenvolvedor Full Stack Python/Django** | 2022 - Presente  
+🔹 Desenvolvimento do TorreX (sistema de gestão de frotas)  
+🔹 Migração para arquiteturas API-first (Django REST Framework)  
+🔹 Implementação de IA e automações inteligentes  
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 **LinkedIn:** [linkedin.com/in/kaique-pimentel](https://www.linkedin.com/in/kaique-pimentel/)
+- 📧 **Email:** kaiquepimentel49@gmail.com
+- 🔗 **GitHub:** [github.com/Kaiquecp](https://github.com/Kaiquecp)
+- 📍 **Localização:** Camaçari - BA, Brasil
+
+---
+
+## 💬 Pergunte-me sobre
+
+- 💻 Python, Django, Django REST Framework
+- 🏢 TOTVS Datasul, Progress 4GL/OpenEdge
+- 🤖 IA Agents, LangChain, RAG
+- ☁️ DevOps, Docker, AWS
+- 🗄️ Bancos de Dados (SQL Server, PostgreSQL, MySQL)
+- 🏗️ Arquitetura de Sistemas e Microsserviços
+
+---
+
+<div align="center">
+  
+### 🌟 "Transformando código em soluções que impactam negócios reais"
+
+![Visitor Count](https://profile-counter.glitch.me/Kaiquecp/count.svg)
+
+</div>
