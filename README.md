@@ -1,5 +1,5 @@
-<h1 align="center">👋 Oi, eu sou o Kaique Pimentel</h1>
-<h3 align="center">Desenvolvedor Full Stack & Engenheiro de Automação com foco em IA, escalabilidade e soluções cloud-native 🚀</h3>
+[<h1 align="center">👋 Oi, eu sou o Kaique Pimentel</h1>
+<h3 align="center">Desenvolvedor Full Stack Python, HTML, CSS3 e Tailwind & Engenheiro de Automação com foco em IA, escalabilidade e soluções cloud-native 🚀</h3>
 
 ---
 
@@ -13,7 +13,7 @@
   **DevOps moderno**, com foco em **infraestrutura escalável e automatizada**, **pipelines CI/CD**, **monitoramento e observabilidade**, **contenção com Docker e Kubernetes**, além de **serviços AWS (EC2, S3, RDS, Lambda, ECS)** e **Infraestrutura como Código (IaC)**.
 
 - ⚙️ **Experiência com bancos de dados:**  
-  **PostgreSQL**, **SQL Server**, **MySQL**, **SQLite** e **Redis** (para cache, filas e alta performance).
+  **PostgreSQL**, **SQL Server**, **MySQL**, **SQLite**, **Redis** (para cache, filas e alta performance) e **Chroma**.
 
 - 👯 **Projetos recentes:**  
   Desenvolvimento de **SaaS completos**, **sistemas web integrados a IA**, e **pipelines automatizados de deploy** em **ambientes cloud e Linux**.
@@ -59,3 +59,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquecp&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas - Kaique Pimentel" />
 </p>
+](https://github.com/Kaiquecp/Kaiquecp)
